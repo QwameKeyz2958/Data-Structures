@@ -8,10 +8,10 @@ public class Main {
 	// write your code here
 
         DoublyLinkedList dll = new DoublyLinkedList();
-        dll.insertAtLast("Dzokoto I");
-        dll.insertAtLast("Agbo Dzokoto");
-        dll.insertAtLast("Yaw Dzokoto");
-        dll.insertAtLast("Timothy Dzokoto");
+        dll.insertAtLast("MENSAH I");
+        dll.insertAtLast("SEKYERE THEOPHILUS");
+        dll.insertAtLast("QWAME");
+        dll.insertAtLast("SEKYERE MENSAH THEOPHILUS");
         dll.display();
         System.out.println("==============================");
         // dll.deleteAt(2);
